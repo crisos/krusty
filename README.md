@@ -1,0 +1,2 @@
+# krusty
+Exploring RUST language
